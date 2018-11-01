@@ -1,5 +1,5 @@
 {
-  "name": "github-needs-qa",
+  "name": "block-on-qa",
   "version": "1.0.0",
   "description": "Prevent merging of Pull Requests using a 'Needs QA' or equivalent label",
   "author": "Graeme Harvey <graeme@iteststuff.ca>",
