@@ -1,1 +1,3 @@
-exports.isDontMerge = name => /do( no|n')t merge/gi.test(name);
+const labelWhitelist = ['needs qa', 'qa required'];
+
+exports.isDontMerge = name => labelWhitelist.indexOf(name.toLowerCase()) >= 0;
