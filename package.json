@@ -1,12 +1,12 @@
 {
   "name": "dont-merge",
   "version": "1.0.0",
-  "description": "Prevent merging of Pull Requests with don't merge or do not merge label selected on labels area.",
+  "description": "Prevent merging of Pull Requests using a 'Needs QA' or equivalent label",
   "author": "Muhannad Abdelrazek <muhnad.abdelrazek@gmail.com>",
-  "license": "ISC",
-  "repository": "https://github.com/Muhnad/dont-merge.git",
-  "homepage": "https://github.com/Muhnad/dont-merge#readme",
-  "bugs": "https://github.com/Muhnad/dont-merge/issues",
+  "license": "ISC - forked from github.com/Muhnad/dont-merge",
+  "repository": "https://github.com/graemeRharvey/github-needs-qa.git",
+  "homepage": "https://github.com/graemeRharvey/github-needs-qa#readme",
+  "bugs": "https://github.com/graemeRharvey/github-needs-qa/issues",
   "files": [
     "index.js",
     "src/"
@@ -14,8 +14,8 @@
   "keywords": [
     "probot",
     "github app",
-    "do not merge",
-    "prevent merging",
+    "needs qa",
+    "qa required",
     "labels"
   ],
   "scripts": {
