@@ -1,8 +1,8 @@
 {
-  "name": "dont-merge",
+  "name": "github-needs-qa",
   "version": "1.0.0",
   "description": "Prevent merging of Pull Requests using a 'Needs QA' or equivalent label",
-  "author": "Muhannad Abdelrazek <muhnad.abdelrazek@gmail.com>",
+  "author": "Graeme Harvey <graeme@iteststuff.ca>",
   "license": "ISC - forked from github.com/Muhnad/dont-merge",
   "repository": "https://github.com/graemeRharvey/github-needs-qa.git",
   "homepage": "https://github.com/graemeRharvey/github-needs-qa#readme",
